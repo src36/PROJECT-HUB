@@ -216,7 +216,7 @@ form input[type="submit"]:hover{
     text-align: center;
     transition: 0.5s;
     transform: translateY(100px);
-    opacity: 0;
+    opacity: 0.5;
 }
 .project_section .card:hover .content{
     transform: translateY(0px);
